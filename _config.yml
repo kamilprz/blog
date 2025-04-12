@@ -2,8 +2,16 @@ theme: minima
 
 title: "kamil.blog"
 author: "Kamil Przepiórowski"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Putting thoughts into writing."
 
 # Email / Social media user names
 github_username: "kamilprz"
 linkedin_username: "kamilprz"
+
+# Posts
+show_excerpts: false
+
+# Header
+header_pages:
+  - archive.html
+  - bookmarks.md
