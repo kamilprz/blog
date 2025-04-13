@@ -24,10 +24,10 @@ More data, coupled with the ability to process it, meant that AI was a natural p
 
 All the way back in 1950 Alan Turing published his paper '[Computing Machinery and Intelligence][turing-computing]'. In it he posed the question - "Can a machine exhibit intelligent behaviour indistinguishable from that of a human?". This paper can largely be attributed to the birth of interest in the field, and resulted in many advancements in the following decades.
 
-1951 - The first neural network is built. 
-1955 - The phrase 'artificial intelligence' is coined. 
-1965 - ELIZA is developed - known as the first 'intelligent' chatbot.
-1969 - The concept of backpropagation is first introduced.
+- 1951 - The first neural network is built. 
+- 1955 - The phrase 'artificial intelligence' is coined. 
+- 1965 - ELIZA is developed - known as the first 'intelligent' chatbot.
+- 1969 - The concept of backpropagation is first introduced.
 
 Even this early on we see many significant breakthroughs which are still relevant today. 
 
@@ -39,14 +39,14 @@ The pattern is there - a wave of hype and excitement, leading to disillusionment
 
 Nonetheless, throughout the next decades, many significant advancements still occur. Some of these are:
 
-1988 - Rollo Carpenter develops the Jabberwacky chatbot which learns from human interactions, rather than being rule based.
-1989 - Handwritten ZIP code images are recognized by a Convolutional Neural Network at Bell Labs.
-1997 - Deep Blue beats Kasparov at chess.
-2009 - Andrew Ng et al. publish "Large-scale Deep Unsupervised Learning using Graphics Processors" which recognises the advantage of GPUs for AI workloads.
-2011 - Apple launches Siri.
-2012 - Andrew Ng and Jeff Dean train a neural network on YouTube videos which learns to recognise images of cats.
-2016 - AlphaGo beats Lee Sedol at Go.
-2017 - Facebook's chatbots develop their own language in communication between each other.
+- 1988 - Rollo Carpenter develops the Jabberwacky chatbot which learns from human interactions, rather than being rule based.
+- 1989 - Handwritten ZIP code images are recognized by a Convolutional Neural Network at Bell Labs.
+- 1997 - Deep Blue beats Kasparov at chess.
+- 2009 - Andrew Ng et al. publish "Large-scale Deep Unsupervised Learning using Graphics Processors" which recognises the advantage of GPUs for AI workloads.
+- 2011 - Apple launches Siri.
+- 2012 - Andrew Ng and Jeff Dean train a neural network on YouTube videos which learns to recognise images of cats.
+- 2016 - AlphaGo beats Lee Sedol at Go.
+- 2017 - Facebook's chatbots develop their own language in communication between each other.
 
 This brings us to the modern day in the 2020's where AI is once again at the top of everyone's minds.
 
