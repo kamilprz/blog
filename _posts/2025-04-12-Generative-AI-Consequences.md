@@ -48,7 +48,7 @@ Nonetheless, throughout the next decades, many significant advancements still oc
 - 2016 - AlphaGo beats Lee Sedol at Go.
 - 2017 - Facebook's chatbots develop their own language in communication between each other.
 
-This brings us to the modern day in the 2020's where AI is once again at the top of everyone's minds.
+This brings us to the modern day, where AI is once again at the top of everyone's minds.
 
 ### The Transformer Boom
 
