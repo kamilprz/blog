@@ -2,3 +2,8 @@ diagramming:
   - name: Excalidraw
     description: Draw on a whiteboard and create diagrams
     link: https://excalidraw.com/
+
+game dev:
+  - name: Doom - Binary Space Partitioning
+    description: Discusses rendering techniques created by John Carmack
+    link: https://www.youtube.com/watch?v=hYMZsMMlubg
