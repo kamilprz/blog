@@ -67,11 +67,21 @@ One of the majorly successful applications of transformers was BERT - Bidirectio
 
 With the release of ChatGPT in 2022, the general public was introduced into a new era of Generative AI. Let's see where it will take us.
 
+## What's different now?
+
+Earlier I touched on the different technological paradigm shifts which impacted how we share information with each other - radio, television and the Internet. Artificial Intelligence certainly fits the bill to be included on this list, but it largely stands out from the rest - let me explain why.
+
+Unlike all the others on the list, AI is not a medium for humans to communicate. Previously information always travelled from one human to another - a radio show host or a news anchor on the TV talking to their audience, etc. AI doesn't require human participation. A learning algorithm can scrape information from the internet, or a data warehouse, and come to informed decisions on its own - for example to recommend you a certain post on your feed. This is the first time in history where humans are cut from the information network. We really need to think about the consequences that this may have. Importantly, as the models get larger in size, consume more data, and their algorithms grow in complexity - the decision making frameworks become incomprehensible to humans, and we lose the ability to understand how the algorithms reached certain conclusions. Naturally, this has the potential to become very concerning if not regulated accordingly.
+
+In the case of Generative AI, it is the first time in history where the medium can create content by itself. A book always needed to be written by an author, a TV show needed to have actors and directors. However, tools such as ChatGPT can now independently generate text, DALL-E can generate images, Sora can generate video - all based on a simple input prompt. This of course has its own implications for the state of the Internet - a topic which will be discussed in further detail in later sections. In short, the web is being polluted at a steadily increasing pace, and is in danger of becoming a ghost-town, mainly populated by AI bots creating content for no-one to see.
+
+Nonetheless, it is the humans who are developing this next wave of technology (at least for now). This means that we need to understand what we can do to leverage our agency, and how to continue in the right direction. At the end of the day, a technology is not inherently evil - it is about how it is used. Take the example of the radio during the Second World War. It was used to spread news and uplift citizens in certain parts of the world, and to spread propaganda of totalitarian regimes in others. The technology was the same in both cases, but how it was utilized was what made all the difference. 
+
+The danger here is that the progression of AI will likely create a divide - the whole world is rarely ever exclusively in agreement on anything, and AI will be no exception. What this means is that different governments and organisations around the world will push for their own technologies and algorithms, and be opinionated about how they are used and regulated. It is very likely that this will lead to conflict. What we currently know as the World Wide Web, might soon become a set of disjointed cocoons.
+
 ---
 
 To be continued...
-
----
 
 <!-- ## References -->
 
