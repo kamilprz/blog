@@ -1,5 +1,9 @@
 theme: minima
 
+minima:
+  skin: dark
+  include_assets: true
+
 title: "kamil.blog"
 author: "Kamil Przepiórowski"
 description: "Putting thoughts into writing."
