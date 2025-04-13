@@ -1,7 +1,7 @@
 theme: minima
 
 minima:
-  skin: auto
+  skin: dark
 
 title: "kamil.blog"
 author: "Kamil Przepiórowski"
