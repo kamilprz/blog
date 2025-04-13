@@ -4,10 +4,6 @@ title: "kamil.blog"
 author: "Kamil Przepiórowski"
 description: "Putting thoughts into writing."
 
-defaults:
-  values:
-    css: "/assets/css/custom.css"
-
 # Email / Social media user names
 github_username: "kamilprz"
 linkedin_username: "kamilprz"
