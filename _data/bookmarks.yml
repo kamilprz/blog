@@ -20,10 +20,6 @@ papers:
     description: Peer-to-Peer electronic cash system
     link: https://bitcoin.org/en/bitcoin-paper
 
-  - name: Bla
-    description: Bla
-    link: Bla
-
 utils:
   - name: Excalidraw
     description: Draw on a whiteboard and create diagrams
