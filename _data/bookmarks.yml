@@ -1,9 +1,38 @@
-diagramming:
-  - name: Excalidraw
-    description: Draw on a whiteboard and create diagrams
-    link: https://excalidraw.com/
-
 game dev:
   - name: Doom - Binary Space Partitioning
-    description: Discusses rendering techniques created by John Carmack
+    description: Rendering techniques created by John Carmack
     link: https://www.youtube.com/watch?v=hYMZsMMlubg
+
+papers:
+  - name: Tail at Scale
+    description: Latency of systems at high scale
+    link: https://research.google/pubs/the-tail-at-scale/
+
+  - name: Bigtable
+    description: Distributed storage system for structured data
+    link: https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/
+
+  - name: Deepseek R1
+    description: Reinforcement learning and distillation
+    link: https://arxiv.org/abs/2501.12948
+
+  - name: Bitcoin
+    description: Peer-to-Peer electronic cash system
+    link: https://bitcoin.org/en/bitcoin-paper
+
+  - name: Bla
+    description: Bla
+    link: Bla
+
+utils:
+  - name: Excalidraw
+    description: Draw on a whiteboard and create diagrams
+    link: https://excalidraw.com/js
+
+  - name: Monkeytype
+    description: Minimalistic typing test / practise
+    link: https://monkeytype.com/
+
+  - name: RemovePaywall
+    description: Read paywalled articles
+    link: https://www.removepaywall.com/
