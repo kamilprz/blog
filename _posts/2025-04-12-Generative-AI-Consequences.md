@@ -104,6 +104,10 @@ This section will discuss how the LLMs can deceive humans, and the role which hu
 
 This section will discuss the significance of setting the right goals for learning models, and how these can lead to unforseen side-effects.
 
+## Ethical Concerns
+
+This section will discuss ethical concerns about AI such as power consumption, data sourcing and labelling, bias and the issues in regulating these topics.
+
 ## Mastery of Craft
 
 This section will discuss the importance of learning on an individual and societal level, and how AI is beginning to disrupt the scene.
