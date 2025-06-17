@@ -45,7 +45,7 @@ Nonetheless, the cycle of research continued and throughout the next decades man
 - 1997 - Deep Blue beat Kasparov at chess.
 - 2009 - Andrew Ng et al. published "Large-scale Deep Unsupervised Learning using Graphics Processors" which recognised the advantage of GPUs for AI workloads.
 - 2011 - Apple launched Siri.
-- 2012 - Andrew Ng and Jeff Dean trained a neural network on YouTube videos which learnd to recognise images of cats.
+- 2012 - Andrew Ng and Jeff Dean trained a neural network on YouTube videos which learned to recognise images of cats.
 - 2016 - AlphaGo beat Lee Sedol at Go.
 - 2017 - Facebook's chatbots developed their own language in communication between each other.
 
@@ -74,11 +74,11 @@ Earlier I touched on the different technological paradigm shifts which have impa
 
 Historically information has always travelled from one human to another - for example, a radio show host talking to their audience, or a printed document sent to an executive. Regardless of whether or not technology was involved in between, the nodes of the information network graph have always been humans. We are the ones who decide what to write, who to send it to and how to send it to them. The technology merely acts as the connecting edge.
 
-![](/img/info-network.png)
+{% include img.html path="/img/info-network.png" alt="Information network between humans" %}
 
 With the emergence of AI, a non-human node is introduced into the network for the first time in history. To examine why AI classifies as a node and not simply an edge, lets compare it to the radio. The radio by itself cannot create any information, nor can it decide on who should receive it. It cannot make decisions. The radio requires a human presence to be useful. On the other hand, an AI system may generate a political news article by itself and publish it to the web. Another AI system may detect this article and make a decision about it - for example marking it as spam, or reposting it, depending on how it perceives the content. A third system may observe this reaction, and take corresponding action by selling risky stocks and buying government bonds instead. Other systems who may be observing the market could notice this and follow suit themselves. This could all take place within a matter of seconds, without any human intervention, and quite likely even without their awareness. This is the difference. AI can generate content and make decisions by itself, which makes it a fully fledged member of the information network.
 
-![](/img/info-network-computer.png)
+{% include img.html path="/img/info-network-computer.png" alt="Information network between humans and computers" %}
 
 At the moment, we still play a crucial role in this network, but this may change. As AI becomes more "intelligent" we will likely be pushed out, and information networks without any human members could very well emerge. We really need to think about the consequences that this may have. Importantly, as the models get larger in size, consume more data, and their algorithms grow in complexity, the decision making frameworks will become incomprehensible to humans - that is, if they are not already. We will thus lose the ability to understand how the algorithms reached certain conclusions, allowing them control our lives without comprehension. It should go without saying this has the potential to become very concerning if not regulated accordingly.
 
@@ -86,14 +86,54 @@ Nonetheless, it is the humans who are developing this next wave of technology (a
 
 There is also a danger that we will divide the world's information networks ourselves, as a result of the AI arms race. The whole world is rarely ever exclusively in agreement on anything, and AI will be no exception. Different governments and organizations around the world will likely push for their own technologies and algorithms, and be opinionated about how they are used and regulated. They may also begin to take more responsibility and ownership over their data, tightly controlling who can access it and use it for training. For example, it may be in China's best interest to not allow the United States to access any of the data or algorithms which were used for training their newest models (and vice-versa). This conflict of interest becomes all the more apparent when one considers the potential of AI within military or government applications. Once the first domino falls, the outcome might not be reversible. What we currently know as the World Wide Web, may soon become a set of disjointed cocoons.
 
-** See 'The Alignment Problem'
+** See 'The Alignment Problem' (coming soon)
 
----
+## The State of the Internet
 
-To be continued...
+This section will discuss the Dead Internet Theory and refer the readers to data about internet traffic.
 
-<!-- ## References -->
+## The key word is Artificial, not Intelligence
+
+This section will discuss the differences between human and artificial intelligence.
+
+## The Art of Manipulation
+
+This section will discuss how the LLMs can deceive humans, and the role which human language has to play in that.
+
+## The Alignment Problem
+
+This section will discuss the significance of setting the right goals for learning models, and how these can lead to unforseen side-effects.
+
+## Mastery of Craft
+
+This section will discuss the importance of learning on an individual and societal level, and how AI is beginning to disrupt the scene.
+
+## Looking Forward
+
+This section will offer some closing remarks and predictions about the future.
+
+## References
 
 [turing-computing]:https://www.csee.umbc.edu/courses/471/papers/turing.pdf
 [lighthill-report]:https://rodsmith.nz/wp-content/uploads/Lighthill_1973_Report.pdf
 [transformer-paper]: https://arxiv.org/abs/1706.03762
+
+1. [Computing Machinery and Intelligence - Alan Turing][turing-computing]
+1. [The Lighthill Report][lighthill-report]
+1. [Attention Is All You Need - Ashish Vaswani et al.][transformer-paper]
+
+## Additional Resources
+
+Some _human_ resources.
+
+Books:
+
+- [Nexus - Yuval Noah Harari](https://www.ynharari.com/book/nexus/)
+- [Thinking, Fast and Slow - Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+
+YouTube:
+- [Preventing the Collapse of Civilizations - Jonathan Blow](https://www.youtube.com/watch?v=ZSRHeXYDLko)
+- [Generative AI is a Parasitic Cancer - Freya Holmér](https://www.youtube.com/watch?v=-opBifFfsMY)
+- [Poisoning AI with ".ass" Subtitltes - f4mi](https://www.youtube.com/watch?v=NEDFUjqA1s8)
+- [AI risks noone is talking about - Teej](https://m.youtube.com/watch?v=pmtuMJDjh5A)
+- [Google doesn't work anymore - Pinely](https://m.youtube.com/watch?v=no_oAmo5hIQ)
