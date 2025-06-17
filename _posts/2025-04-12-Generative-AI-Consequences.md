@@ -5,7 +5,7 @@ tags: AI
 ---
 
 
-![]({{ "/img/shodan.png" | relative_url }})
+{% include img.html path="/img/shodan.png" alt="Shodan - System Shock 2" %}
 
 Some technologies can be harmful to humanity. 
 
