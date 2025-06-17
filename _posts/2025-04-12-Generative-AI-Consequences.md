@@ -5,7 +5,7 @@ tags: AI
 ---
 
 
-{% include img.html path="/img/shodan.jpg" alt="Shodan - System Shock 2" %}
+{% include img.html path="/img/shodan.png" alt="Shodan - System Shock 2" %}
 
 Some technologies can be harmful to humanity. 
 
