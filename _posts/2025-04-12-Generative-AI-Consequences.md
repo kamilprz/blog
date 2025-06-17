@@ -5,7 +5,7 @@ tags: AI
 ---
 
 
-![](/img/shodan.png)
+![]({{ "/img/shodan.png" | relative_url }})
 
 Some technologies can be harmful to humanity. 
 
