@@ -1,7 +1,30 @@
-game dev:
-  - name: Doom - Binary Space Partitioning
-    description: Rendering techniques created by John Carmack
-    link: https://www.youtube.com/watch?v=hYMZsMMlubg
+utils:
+  - name: Excalidraw
+    description: Draw on a whiteboard and create diagrams
+    link: https://excalidraw.com/js
+
+  - name: Monkeytype
+    description: Minimalistic typing test / practise
+    link: https://monkeytype.com/
+
+  - name: RemovePaywall
+    description: Read paywalled articles
+    link: https://www.removepaywall.com/
+
+blogs:
+  - name: The Best Viewpoints
+    description: Blog about summiting the tallest peaks in Europe
+    link: https://www.thebestviewpoints.com/hiking-mountains/
+
+travel:
+  - name: Water At Airports
+    description: Where to find water refill stations at airports
+    link: https://www.wateratairports.com/
+
+tech:
+  - name: Open Source Guide
+    description: Resources to grow open source projects
+    link: https://opensource.guide/
 
 papers:
   - name: Tail at Scale
@@ -20,15 +43,15 @@ papers:
     description: Peer-to-Peer electronic cash system
     link: https://bitcoin.org/en/bitcoin-paper
 
-utils:
-  - name: Excalidraw
-    description: Draw on a whiteboard and create diagrams
-    link: https://excalidraw.com/js
+game dev:
+  - name: Doom - Behind the Music
+    description: GDC talk by Mick Gordon about the music of DOOM 2016
+    link: https://www.youtube.com/watch?v=U4FNBMZsqrY
 
-  - name: Monkeytype
-    description: Minimalistic typing test / practise
-    link: https://monkeytype.com/
+  - name: Overwatch - Animations in First Person
+    description: GDC talk about the animations in Overwatch
+    link: https://www.youtube.com/watch?v=7t0hLZd_8Z4
 
-  - name: RemovePaywall
-    description: Read paywalled articles
-    link: https://www.removepaywall.com/
+  - name: Doom - Binary Space Partitioning
+    description: Rendering techniques created by John Carmack
+    link: https://www.youtube.com/watch?v=hYMZsMMlubg
