@@ -1,6 +1,6 @@
-<figure style="display: block; margin-left: auto; margin-right: auto;">
+<figure style="text-align: center;">
     <img src="{{ include.path | relative_url }}" alt="{{ include.alt | default: '' }}">
     {% if include.caption %}
-      <figcaption style="text-align: center;">{{ include.caption }}</figcaption>
+      <figcaption>{{ include.caption }}</figcaption>
     {% endif %}
   </figure>
