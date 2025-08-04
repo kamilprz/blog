@@ -9,23 +9,23 @@ tags: AI
 
 Some technologies can be harmful to humanity. 
 
-Artificial Intelligence certainly has the potential to be one of them. It is important to highlight, however, that it is humans who are developing this technology, and making the decisions responsible for its future. The natural question then becomes - how can we make sure we make the _right_ decisions?
+Artificial Intelligence certainly has the potential to be one of them. It is important to highlight, however, that it is humans who are developing this technology and making the decisions responsible for its future.
 
-For that to happen, we need to educate ourselves, engage in healthy discourse about the consequences of this technology, remain critical, and not fall for the hype of the cherry-picked benchmarks.
+The natural question to ask is - how can we make sure we make the _right_ decisions? For that to happen, we need to educate ourselves, engage in healthy discourse about the consequences of this technology, remain critical, and not fall for the hype of the cherry-picked benchmarks.
 
 My hope is that this article will provide you with enough context to allow you to formulate your own thoughts about the topic with more clarity than before.
 
 ## What led us here?
 
-It is important to understand the context of how we ended up in this situation. AI is currently experiencing the biggest wave of hype and investment that it has ever seen. It has become accessible and mainstream... but where did it come from?
+AI is currently experiencing the biggest wave of hype and investment that it has ever seen. It has become accessible and mainstream, but where did it come from? Lets set the scene...
 
-Let me begin my discussing the concept of information transmission. Sharing information is an inherently human thing to do. It is, after all, what creates connections between us and brings us together. Throughout history there have been multiple 'paradigm shifts' in how information can spread. Cave paintings and pictograms. The invention of alphabets and languages. The printing press. Radio and television. The rise of computers - which led to the mass digitalization of documents, the creation of the Internet, and eventually of social media.
+Sharing information is an inherently human thing to do. It is after all what creates connections between us and brings us together. Throughout history there have been multiple paradigm shifts in how information can spread. From cave paintings and pictograms, to the invention of alphabets and languages, to the eventual creation of the printing press. Followed later by the digital age of radio, television, computers and the Internet. The trend is clear. Over time we have developed newer and better ways to spread information to an ever-increasing number of people. Now, more people than ever have access to near-infinite amounts of information.
 
-The trend is clear. Over time we have developed newer and better ways to more easily spread information to an ever-increasing range of people. This is inherently a brilliant achievement. Now, more people than ever have access to near-infinite amounts of information.
+The natural consequence of these developments - particularly for the digital age - is the exponential rise in the quantity of available data. Nowadays, analytics are king. Everything is monitored, tracked and measured. This (among many more reasons) results in what is known as Big Data - large and diverse datasets which rapidly grow over time. These datasets create their own unique problems, namely storage and processing. The answers to these problems? The cloud and high performance computing. Access to massive amounts of data coupled with the ability to process it meant that AI was a natural next step in the evolution of information management.
 
-The natural consequence of these developments, and particularly the digital age, is the exponential rise in the quantity of available data. Not only that, analytics are king. Everything is monitored, tracked and measured. This (among many more reasons) results in what is known as Big Data - large and diverse datasets which rapidly grow over time. These datasets create their own unique problems - namely storage and processing. The answers to these problems? The advancements of the Cloud and High Performance Computing.
+This brings us to where we are today - with tremendous amounts of investment and ongoing research into the world of AI. We are amidst a rat race, where everyone is trying to develop the most 'intelligent' model capable of outperforming the competition. 
 
-More data, coupled with the ability to process it, meant that AI was a natural progression given the state of the world. This brings us to where we are today - with tremendous amounts of investment and ongoing research into the world of AI. We are amidst a rat race, where everyone wants to have the 'most intelligent' model capable of outperforming the competition. AI is the current hot trend, but in reality Artificial Intelligence is not a new concept. I think it is important to acknowledge that, and to recognize the giants whose shoulders we stand on today.
+AI is the current hot trend, but in reality it is not a new concept. We must acknowledge that and recognize the giants whose shoulders we stand on today.
 
 ### A Brief History of AI
 
