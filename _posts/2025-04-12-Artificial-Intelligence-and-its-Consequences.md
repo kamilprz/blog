@@ -57,17 +57,19 @@ It is now 2025 and AI has once again taken centre stage. Many believe that we ar
 
 ### The Transformer Goes Boom
 
-Despite what the name of this section might suggest, this section does not discuss the movie franchise directed by Michael Bay. Instead the focus will be on the transformer model architecture, and it's significance in the context of today's AI models. Before we get to transformers though, we first need to talk about LLMs.
+Despite what the title of this section might suggest, it will not discuss the movie franchise directed by Michael Bay. Instead the focus will be on the transformer model architecture, and its significance in the context of today's AI models.
 
-Large Language Models (LLMs) are a type of machine learning model designed for natural language processing tasks - i.e. they can "understand" and generate human language via deep neural networks. The "Large" in LLM comes from the amount of training data which is used to provide its foundational capabilities, as well as the amount of parameters used - which is often used to describe the size of the model. Essentially, the larger the model, the more information it can learn during training, which in turn makes its predictions more accurate. This is also part of why it is so expensive to train good models - larger models mean more data, which means more storage and compute, which means higher cost.
+Large Language Models (LLMs) are a type of Machine Learning model designed for natural language processing tasks - i.e. they can "understand" and generate human language via Neural Networks. The "Large" in LLM comes from the amount of training data which is used to provide its foundational capabilities, as well as the amount of parameters used - which is often used to describe the size of the model. Essentially, the larger the model, the more information it can learn during training, which in turn makes its predictions more accurate. This is also part of why it is so expensive to train good models - larger models mean more data, which means more storage and compute, which means higher cost.
 
-The idea of a model which can understand natural language and interact with a human has been around for decades - as noted above with ELIZA, Jabberwacky and many others which came along the way. However, there has been a recent revolution in the space with the arrival of the transformer architecture in 2017, introduced in the paper - [Attention Is All You Need][transformer-paper], by Ashish Vaswani et al.
+The idea of a model which can understand natural language and interact with a human has been around for decades - as noted above with ELIZA, Jabberwacky and many others which came along the way. However, there has been a recent revolution in the space with the arrival of the transformer architecture in 2017, introduced in the paper - Attention Is All You Need, by Ashish Vaswani et al. [3]
 
-The transformer model is a type of neural network architecture based on *attention* - hence the title of the paper. This in essence allows the model to determine and focus on what is most important about a specific sequence of data. For example, it could understand words within a context or assess a words significance within a sentence. Transformers do not process words sequentially one at a time, but instead, process the entire input all at once.
+The transformer model is a type of Neural Network architecture based on *attention* (hence the title of the paper). This concept allows the model to determine and focus on what is most important about a specific sequence of data. For example, it could understand words within a specific context or assess the significance of a word within a sentence. Transformers do not process words sequentially one at a time, but instead process the entire input all at once.
 
-One of the first majorly successful applications of transformers was BERT - Bidirectional Encoder Representations from Transformers - introduced by Google in 2019 - which could predict or classify input text. The model quickly became ubiquitous, and is still used today as the basis of Google search. Despite its fame though, BERT was soon overtaken in popularity by OpenAI's GPT models. GPT stands for Generative Pre-trained Transformer, which can be broken down as follows:
+One of the first majorly successful applications of transformers was BERT - Bidirectional Encoder Representations from Transformers - introduced by Google in 2019 [4] - which could predict or classify input text. The model quickly became ubiquitous, and is still used today as the basis of Google search. Despite its fame though, BERT was soon overtaken in popularity by OpenAI's GPT models.
 
-- Generative Pre-training is the ability to train language models with unlabeled data and apply those patterns to new inputs. GPTs _generate_ new data by applying the patterns and structure of their _pretraining_ data to user inputs.
+GPT stands for Generative Pre-trained Transformer, which can be broken down as follows:
+
+- Generative Pre-training is the ability to train language models with unlabelled data and apply those patterns to new inputs. GPTs _generate_ new data by applying the patterns and structure of their _pretraining_ data to user inputs.
 - Transformer models are a type of neural network specialised in Natural Language Processing. They can process the entire input sequence in parallel and identify the importance of words.
 
 With the release of ChatGPT in 2022, the general public was introduced into a new era of Generative AI, which has taken the world by storm. AI has never been so mainstream and accessible before. This begs the question - are we ready for it?
@@ -98,7 +100,7 @@ One of the consequences of the existence of computer-to-computer information net
 
 If this is the first time you hear of the theory, take a moment to reflect on your own internet activity. When was the last time you used the web and *didn't* see either a bot account or artificially created content? You may come to realize that we have unconsciously accepted that "this is simply how things are" ... but was this always the case?
 
-There are some numbers which we can reference, sourced from the annual 'Bad Bot Reports' by Imperva which analyse internet traffic. According to the 2025 report [4], last year was the first time in a decade where the Bots beat Humans. This has also happened before in 2014 [5] (not captured in the graph below), however, we can generally consider that year to be an outlier due to the changes in search engines which took place. [6]
+There are some numbers which we can reference, sourced from the annual 'Bad Bot Reports' by Imperva which analyse internet traffic. According to the 2025 report [5], last year was the first time in a decade where the Bots beat Humans. This has also happened before in 2014 [6] (not captured in the graph below), however, we can generally consider that year to be an outlier due to the changes in search engines which took place. [7]
 
 {% include img.html path="/img/internet-traffic-chart.png" alt="Chart of Internet traffic 2015-2024" caption="Figure 4: Chart of Internet traffic 2015-2024, Bad Bots Report 2025" %}
 
@@ -108,17 +110,15 @@ There are some numbers which we can reference, sourced from the annual 'Bad Bot 
 
 When you consult the graphs there is one very apparent pattern - the steady rise of Bad Bots. They have more than doubled their traffic over the last decade. What is even more concerning, is that this growth trajectory will only be accelerated with the emergence of accessible AI tools. The barrier of entry to creating a Bad Bot and deploying it at global scale has never been lower. Attackers can now use AI not only to create the bots themselves without much technical knowledge, but also to analyse failed attempts and identify further weaknesses in the attack surface.
 
-The takeaway here is simple - if you don’t control your web traffic, someone else will. The report [4] offers some guidance about how businesses should protect themselves from Bad Bots, but the reality is that it is becoming more difficult. By leveraging AI, bad actors can now generate sophisticated bots which can learn from their interactions and evade traditional detection mechanisms by mimicking real users more accurately than ever before. This is a real danger.
+The takeaway here is simple - if you don’t control your web traffic, someone else will. The report offers some guidance about how businesses should protect themselves from Bad Bots, but the reality is that it is becoming more difficult. By leveraging AI, bad actors can now generate sophisticated bots which can learn from their interactions and evade traditional detection mechanisms by mimicking real users more accurately than ever before. This is a real danger.
 
 To illustrate some real life scenarios, consider these case studies from the 2025 report.
 
-**Talent Agency**
-A leading global talent agency invested hundreds of thousands into their marketing campaign, and were seeing positive engagement metrics and large volumes of traffic on their website, yet no-one was applying for the roles they posted. What was the problem? 83% of their website traffic were bots. 
+**Talent Agency** - A leading global talent agency invested hundreds of thousands into their marketing campaign, and were seeing positive engagement metrics and large volumes of traffic on their website, yet no-one was applying for the roles they posted. What was the problem? 83% of their website traffic were bots. 
 
-**Airline pricing**
-Bad bots flood airline websites and reserve seats, but do not complete the bookings. This inflated volume of requests skews the demand forecasts and affects the dynamic pricing models of the tickets. The airlines also incur needless operational costs as a consequence.
+**Airline pricing** - Bad bots flood airline websites and reserve seats, but do not complete the bookings. This inflated volume of requests skews the demand forecasts and affects the dynamic pricing models of the tickets. The airlines also incur needless operational costs as a consequence.
 
-It is important to highlight the role which Generative AI has played in this surge of Bad Bots. As mentioned before, AI in itself is not a new concept, and neither are malicious bots. AI has been used for years for things such as anomaly detection or traffic optimization.
+It is important to highlight the role which Generative AI has played in this surge of Bad Bots. As mentioned before, AI in itself is not a new concept, and neither are malicious bots. AI has been used for years for things such as anomaly detection or traffic optimization. What is new, however, is the emergence Generative AI and its ability to create. This is the first time in history where a medium can create content by itself - and that is a big deal. Tools such as ChatGPT can now independently generate text, Imagen-4 can generate images, Veo-3 can generate video, all based on simple input prompts. There is no doubt that this is an astonishing achievement from a technological perspective, but we must proceed with caution.
 
 ## The key word is Artificial, not Intelligence
 
@@ -152,11 +152,13 @@ This section will offer some closing remarks and predictions about the future.
 
 [3] Attention is All You Need: https://arxiv.org/abs/1706.03762
 
-[4] Bad Bot Report 2025: https://www.imperva.com/resources/resource-library/reports/2025-bad-bot-report/
+[4] BERT: https://blog.google/products/search/search-language-understanding-bert/
 
-[5] Bad Bot Report 2024 https://www.imperva.com/resources/resource-library/reports/2024-bad-bot-report/
+[5] Bad Bot Report 2025: https://www.imperva.com/resources/resource-library/reports/2025-bad-bot-report/
 
-[6] Google Pigeon update: https://www.searchenginejournal.com/google-algorithm-history/pigeon-update/
+[6] Bad Bot Report 2024 https://www.imperva.com/resources/resource-library/reports/2024-bad-bot-report/
+
+[7] Google Pigeon update: https://www.searchenginejournal.com/google-algorithm-history/pigeon-update/
 
 ## Additional Resources
 
