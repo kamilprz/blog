@@ -1,5 +1,5 @@
 <figure style="text-align: center;">
-    <img src="{{ include.path | relative_url }}" alt="{{ include.alt | default: '' }}">
+    <img src="{{ include.path | relative_url }}" alt="{{ include.alt | default: '' }}" style="display: inline;">
     {% if include.caption %}
       <figcaption>{{ include.caption }}</figcaption>
     {% endif %}
