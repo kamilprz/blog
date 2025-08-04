@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence and its Consequences
 date: 2025-08-04
-tags: AI
+tags: Tech
 ---
 
 
@@ -29,20 +29,20 @@ AI is the current hot trend, but in reality it is not a new concept. We must ack
 
 ### A Brief History of AI
 
-All the way back in 1950 Alan Turing published his paper '[Computing Machinery and Intelligence][turing-computing]'. In it he posed the question - "Can a machine exhibit intelligent behaviour indistinguishable from that of a human?". This paper can largely be attributed to the birth of interest in the field of AI. It sparked a plethora of research and resulted in lots of advancements in the following decades; many of which are still relevant today.
+All the way back in 1950, Alan Turing published his paper "Computing Machinery and Intelligence" [1] where he posed the question of whether machines can exhibit intelligent behaviours which are indistinguishable from humans. This paper can largely be attributed to the birth of interest in the field of AI. It sparked a plethora of research and resulted in lots of advancements in the following decades; many of which are still relevant today.
 
 - 1951 - The first neural network was built. 
-- 1955 - The phrase 'artificial intelligence' was coined. 
-- 1965 - ELIZA was developed - known as the first 'intelligent' chatbot.
+- 1955 - The phrase 'Artificial Intelligence' was coined. 
+- 1965 - ELIZA was developed - known as the first "intelligent" chatbot.
 - 1969 - The concept of backpropagation was first introduced.
 
-The 1970s, however, were not quite as promising. They brought on the first major "AI Winter" - a period of decreased funding and interest in AI research. This is largely accredited to the ['Lighthill report][lighthill-report]' which claimed that the field had not produced the significant breakthroughs which were promised. This led to a loss of support from companies and governments.
+The 1970s, however, were not quite as promising. They brought on the first major "AI Winter" - a period of decreased funding and interest in AI research. This is largely accredited to the Lighthill report [2] which claimed that the field had not produced the significant breakthroughs which were promised. This led to a loss of support from companies and governments.
 
-Although the excitement and funding returned in the 1980s, it did not stay for long. In 1984 at an annual meeting of the Association for the Advancement of Intelligence (AAAI) the world was cautioned of another impending AI Winter (in fact this is where this phrase was coined). It was predicted that history was going to repeat itself, and as in the 1970s, investment and research would collapse due to inflated expectations and underwhelming results. Within just three years this became reality and the second AI Winter had arrived.
+Although the excitement and funding returned in the 1980s, it did not stay for long. In 1984 at an annual meeting of the Association for the Advancement of Intelligence (AAAI) the world was cautioned of another impending AI Winter (in fact this is where the phrase was originally coined). It was predicted that history was going to repeat itself and as in the 1970s, investment and research would collapse due to inflated expectations and underwhelming results. Within just three years this became reality and the second AI Winter had arrived.
 
-A pattern was emerging - an initial wave of hype and excitement, which in turn led to disillusionment and overblown expectations, which could not be met, and thus disappointment. As we reflect on where we are today, we must keep the past in mind and ride the wave of excitement with cynicism at heart, as to not repeat the same mistakes.
+A pattern was emerging: an initial wave of hype and excitement, which in turn led to disillusionment and overblown expectations which could not be met. As we reflect on where we are today we must keep the past in mind and ride the wave of excitement with cynicism at heart, as to not repeat the same mistakes.
 
-Nonetheless, the cycle of research continued and throughout the next decades many more significant advancements occurred, particularly after we entered the 21st century. Some of these are:
+Nonetheless, over time the research returned and throughout the next decades many more significant advancements occurred, particularly after we entered the 21st century. Some of these are:
 
 - 1988 - Rollo Carpenter developed the Jabberwacky chatbot which learned from human interactions, rather than being rule based.
 - 1989 - Handwritten ZIP code images were recognized by a Convolutional Neural Network at Bell Labs.
@@ -53,7 +53,7 @@ Nonetheless, the cycle of research continued and throughout the next decades man
 - 2016 - AlphaGo beat Lee Sedol at Go.
 - 2017 - Facebook's chatbots developed their own language in communication between each other.
 
-This brings us to the modern day, where AI is once again at the top of everyone's minds, and many believe that we are in the middle of an AI Spring - but what exactly happened between 2017 and 2025?
+It is now 2025 and AI has once again taken centre stage. Many believe that we are in the middle of an AI Spring - but what exactly happened between 2017 and 2025?
 
 ### The Transformer Goes Boom
 
@@ -122,13 +122,17 @@ This section will offer some closing remarks and predictions about the future.
 
 ## References
 
-[turing-computing]:https://www.csee.umbc.edu/courses/471/papers/turing.pdf
-[lighthill-report]:https://rodsmith.nz/wp-content/uploads/Lighthill_1973_Report.pdf
-[transformer-paper]: https://arxiv.org/abs/1706.03762
+[1] Computing Machinery and Intelligence: https://www.csee.umbc.edu/courses/471/papers/turing.pdf
 
-1. [Computing Machinery and Intelligence - Alan Turing][turing-computing]
-1. [The Lighthill Report][lighthill-report]
-1. [Attention Is All You Need - Ashish Vaswani et al.][transformer-paper]
+[2] Lighthill Report: https://rodsmith.nz/wp-content/uploads/Lighthill_1973_Report.pdf
+
+[3] Attention is All You Need: https://arxiv.org/abs/1706.03762
+
+[4] Bad Bot Report 2025: https://www.imperva.com/resources/resource-library/reports/2025-bad-bot-report/
+
+[5] Bad Bot Report 2024 https://www.imperva.com/resources/resource-library/reports/2024-bad-bot-report/
+
+[6] Google Pigeon update: https://www.searchenginejournal.com/google-algorithm-history/pigeon-update/
 
 ## Additional Resources
 
