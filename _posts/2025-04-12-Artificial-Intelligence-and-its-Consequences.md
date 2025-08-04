@@ -78,11 +78,11 @@ Earlier I touched on the different technological paradigm shifts which have impa
 
 Historically information has always travelled from one human to another - for example, a radio show host talking to their audience, or a printed document sent to an executive. Regardless of whether or not technology was involved in between, the nodes of the information network graph have always been humans. We are the ones who decide what to write, who to send it to and how to send it to them. The technology merely acts as the connecting edge.
 
-{% include img.html path="/img/info-network.png" alt="Information network between humans" %}
+{% include img.html path="/img/info-network.png" alt="Information network between humans" caption="Figure 2: Information network between humans" %}
 
 With the emergence of AI, a non-human node is introduced into the network for the first time in history. To examine why AI classifies as a node and not simply an edge, lets compare it to the radio. The radio by itself cannot create any information, nor can it decide on who should receive it. It cannot make decisions. The radio requires a human presence to be useful. On the other hand, an AI system may generate a political news article by itself and publish it to the web. Another AI system may detect this article and make a decision about it - for example marking it as spam, or reposting it, depending on how it perceives the content. A third system may observe this reaction, and take corresponding action by selling risky stocks and buying government bonds instead. Other systems who may be observing the market could notice this and follow suit themselves. This could all take place within a matter of seconds, without any human intervention, and quite likely even without their awareness. This is the difference. AI can generate content and make decisions by itself, which makes it a fully fledged member of the information network.
 
-{% include img.html path="/img/info-network-computer.png" alt="Information network between humans and computers" %}
+{% include img.html path="/img/info-network-computer.png" alt="Information network between humans and computers" caption="Figure 3: Information network between humans and computers" %}
 
 At the moment, we still play a crucial role in this network, but this may change. As AI becomes more "intelligent" we will likely be pushed out, and information networks without any human members could very well emerge. We really need to think about the consequences that this may have. Importantly, as the models get larger in size, consume more data, and their algorithms grow in complexity, the decision making frameworks will become incomprehensible to humans - that is, if they are not already. We will thus lose the ability to understand how the algorithms reached certain conclusions, allowing them control our lives without comprehension. It should go without saying this has the potential to become very concerning if not regulated accordingly.
 
@@ -94,7 +94,31 @@ There is also a danger that we will divide the world's information networks ours
 
 ## The State of the Internet
 
-This section will discuss the Dead Internet Theory and refer the readers to data about internet traffic.
+One of the consequences of the existence of computer-to-computer information networks is the materialization of the Dead Internet Theory, which states that the majority of internet traffic is not human, and most of its content is automatically generated and algorithmically curated to control the population. There is also an associated conspiracy that this is an organized movement controlled by an overseeing party, usually considered to be the government of a big state. Regardless of whether this conspiracy is true, one thing cannot be denied - the bots are here, and they are here to stay.
+
+If this is the first time you hear of the theory, take a moment to reflect on your own internet activity. When was the last time you used the web and *didn't* see either a bot account or artificially created content? You may come to realize that we have unconsciously accepted that "this is simply how things are" ... but was this always the case?
+
+There are some numbers which we can reference, sourced from the annual 'Bad Bot Reports' by Imperva which analyse internet traffic. According to the 2025 report [4], last year was the first time in a decade where the Bots beat Humans. This has also happened before in 2014 [5] (not captured in the graph below), however, we can generally consider that year to be an outlier due to the changes in search engines which took place. [6]
+
+{% include img.html path="/img/internet-traffic-chart.png" alt="Chart of Internet traffic 2015-2024" caption="Figure 4: Chart of Internet traffic 2015-2024, Bad Bots Report 2025" %}
+
+- **Bots** - software applications that perform automated tasks
+- **Bad Bots** - bots with malicious intent. e.g. data scraping, scalping, account takeover or payment fraud
+- **Good Bots** - bots without malicious intent. e.g. indexing the web for search engines or monitoring service performance
+
+When you consult the graphs there is one very apparent pattern - the steady rise of Bad Bots. They have more than doubled their traffic over the last decade. What is even more concerning, is that this growth trajectory will only be accelerated with the emergence of accessible AI tools. The barrier of entry to creating a Bad Bot and deploying it at global scale has never been lower. Attackers can now use AI not only to create the bots themselves without much technical knowledge, but also to analyse failed attempts and identify further weaknesses in the attack surface.
+
+The takeaway here is simple - if you don’t control your web traffic, someone else will. The report [4] offers some guidance about how businesses should protect themselves from Bad Bots, but the reality is that it is becoming more difficult. By leveraging AI, bad actors can now generate sophisticated bots which can learn from their interactions and evade traditional detection mechanisms by mimicking real users more accurately than ever before. This is a real danger.
+
+To illustrate some real life scenarios, consider these case studies from the 2025 report.
+
+**Talent Agency**
+A leading global talent agency invested hundreds of thousands into their marketing campaign, and were seeing positive engagement metrics and large volumes of traffic on their website, yet no-one was applying for the roles they posted. What was the problem? 83% of their website traffic were bots. 
+
+**Airline pricing**
+Bad bots flood airline websites and reserve seats, but do not complete the bookings. This inflated volume of requests skews the demand forecasts and affects the dynamic pricing models of the tickets. The airlines also incur needless operational costs as a consequence.
+
+It is important to highlight the role which Generative AI has played in this surge of Bad Bots. As mentioned before, AI in itself is not a new concept, and neither are malicious bots. AI has been used for years for things such as anomaly detection or traffic optimization.
 
 ## The key word is Artificial, not Intelligence
 
