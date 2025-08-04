@@ -1,16 +1,19 @@
 ---
-title: Generative AI and its Consequences
-date: 2025-06-17
+title: Artificial Intelligence and its Consequences
+date: 2025-08-04
 tags: AI
 ---
 
 
 {% include img.html path="/img/shodan.png" alt="Shodan - System Shock 2" caption="Figure 1: Shodan - System Shock 2" %}
 
-
 Some technologies can be harmful to humanity. 
 
-Artificial Intelligence certainly has the potential to be one of them. The bright side is that ultimately we are the ones developing it, and can hopefully make the right decisions along the way. For that to happen, we need to educate ourselves, engage in healthy discussions about the consequences of this technology, remain critical, and not fall for the hype of the cherry-picked benchmarks. My hope is that this article will provide you with enough context to empower you to formulate your own thoughts about the topic with more clarity than before.
+Artificial Intelligence certainly has the potential to be one of them. It is important to highlight, however, that it is humans who are developing this technology, and making the decisions responsible for its future. The natural question then becomes - how can we make sure we make the _right_ decisions?
+
+For that to happen, we need to educate ourselves, engage in healthy discourse about the consequences of this technology, remain critical, and not fall for the hype of the cherry-picked benchmarks.
+
+My hope is that this article will provide you with enough context to allow you to formulate your own thoughts about the topic with more clarity than before.
 
 ## What led us here?
 
